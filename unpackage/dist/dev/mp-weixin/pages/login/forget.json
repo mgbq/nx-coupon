@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "忘记密码",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "u-icon": "/uview-ui/components/u-icon/u-icon"
+  }
+}

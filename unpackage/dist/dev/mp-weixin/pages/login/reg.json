@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "注册",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "u-icon": "/uview-ui/components/u-icon/u-icon"
+  }
+}

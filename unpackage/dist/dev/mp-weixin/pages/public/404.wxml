@@ -1,0 +1,1 @@
+<u-empty vue-id="7dfdfd9b-1" mode="page" bind:__l="__l" vue-slots="{{['bottom']}}"><u-button vue-id="{{('7dfdfd9b-2')+','+('7dfdfd9b-1')}}" slot="bottom" size="medium" data-event-opts="{{[['^click',[['e0']]]]}}" bind:click="__e" bind:__l="__l" vue-slots="{{['default']}}">去首页</u-button></u-empty>

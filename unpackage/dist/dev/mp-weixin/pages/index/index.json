@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "nx-can-use-coupon": "/components/nx-can-use-coupon/nx-can-use-coupon"
+  }
+}

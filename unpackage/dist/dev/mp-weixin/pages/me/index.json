@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "优惠券",
+  "navigationStyle": "custom",
+  "disableScroll": false,
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "v-tabs": "/components/v-tabs/v-tabs",
+    "nx-coupon": "/components/nx-coupon/nx-coupon",
+    "u-empty": "/uview-ui/components/u-empty/u-empty",
+    "nx-coupon-rule": "/components/nx-coupon-rule/nx-coupon-rule"
+  }
+}

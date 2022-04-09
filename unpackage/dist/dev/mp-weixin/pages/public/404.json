@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "页面不存在",
+  "usingComponents": {
+    "u-empty": "/uview-ui/components/u-empty/u-empty",
+    "u-button": "/uview-ui/components/u-button/u-button"
+  }
+}
